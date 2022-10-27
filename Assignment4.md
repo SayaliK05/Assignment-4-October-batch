@@ -17,6 +17,7 @@ We handpicked Nutri-blend, the most popular blender, mixer, and grinder for quic
 
 ## In the Box
                              
+                             ![One0One](https://user-images.githubusercontent.com/115913678/198287324-f6d2758e-befb-4bf3-a2ad-26fa2da571b1.JPG)
 1. Long Jar (500ml) 
 2. Lid
 3. Blades for Blending
