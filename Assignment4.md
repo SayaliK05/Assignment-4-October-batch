@@ -17,6 +17,7 @@ We handpicked Nutri-blend, the most popular blender, mixer, and grinder for quic
 
 ## In the Box
 
+                               ![Uploading One.JPG…]()                               
 1. Long Jar (500ml) 
 2. Lid
 3. Blades for Blending
@@ -63,6 +64,7 @@ both functions are given below:
 4. Push down the jar and rotate it clockwise to lock the jar into the motor. The unit starts operating
 5. When blending is completed, rotate the jar anti-clockwise to release the jar. The operation will stop.
 6. Take out the jar, open the lid and the juice is ready to serve or you can keep the lid on and store it in the refrigerator and serve later.
+                                                                 ![Uploading two.JPG…]()
 
 ### Grinding:
 
