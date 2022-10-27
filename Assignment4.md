@@ -16,8 +16,7 @@
 We handpicked Nutri-blend, the most popular blender, mixer, and grinder for quick chutneys, masalas, smoothies, shakes, and juices! Its simple operation, small size, and 22,000 RPM speed ensure that you get the ideal outcome every time!
 
 ## In the Box
-
-                               ![Uploading One.JPG…]()                               
+                             
 1. Long Jar (500ml) 
 2. Lid
 3. Blades for Blending
@@ -64,7 +63,8 @@ both functions are given below:
 4. Push down the jar and rotate it clockwise to lock the jar into the motor. The unit starts operating
 5. When blending is completed, rotate the jar anti-clockwise to release the jar. The operation will stop.
 6. Take out the jar, open the lid and the juice is ready to serve or you can keep the lid on and store it in the refrigerator and serve later.
-                                                                 ![Uploading two.JPG…]()
+                                               ![two](https://user-images.githubusercontent.com/115913678/198284927-310408ee-f6d5-4b11-9e74-0f094878385c.JPG)
+             
 
 ### Grinding:
 
@@ -74,6 +74,7 @@ both functions are given below:
 4. Push down the jar and rotate it clockwise to lock the jar into the motor. The unit starts operating.
 5. When grinding is completed, rotate the jar anti-clockwise to release the jar. The operation will stop.
 6. Take out the jar, open the lid and the grinded food is ready to serve or you can keep the seasoning cap on and store it in the refrigerator and serve later.
+                             ![three](https://user-images.githubusercontent.com/115913678/198285507-87ae5096-1275-4734-b470-407d22b98d98.JPG)
 
 ### Mixer Jar:
 
@@ -81,12 +82,14 @@ both functions are given below:
 2. The lid attachment makes filling the ingredients easier.
 3. Hold the Jar from the top while operating.
 4. Stop the operation before opening the lid.
+                            ![four](https://user-images.githubusercontent.com/115913678/198285581-a269620a-bb1c-4b4b-838e-b6ede243c51d.JPG)
 
 ## Cleaning and Maintenance
 
 1. Unplug the unit before cleaning  (Refer to the images below).
 2. Do not immerse the motor base and power cord in water for cleaning, wipe it with a damp cloth and wipe it dry (Refer to the images below).
-3. Cleaning the jars after every use (Refer to the images below).
+3. Cleaning the jars after every use (Refer to the images below).                        
+                             ![Five](https://user-images.githubusercontent.com/115913678/198285726-7e608930-1fd2-488a-98e8-07fee9dc8296.JPG)
 
 ## Storage
 
@@ -106,5 +109,6 @@ both functions are given below:
 7. Blades are sharp, handle them with care.
 8. Make sure to unplug the unit before cleaning, assembling and disassembling.
 9. The Grinder is manufactured only for household use, do not use it for outdoor purposes.
+                                ![Six](https://user-images.githubusercontent.com/115913678/198285833-32538e15-0b52-4acd-8264-597594854839.JPG)
 
 *Note: This User manual is only for assignment and research purposes. It is not to be referred to as an official instruction manual for the product. Credits for this information used are [Nutri-blend with Big Mixer jar](https://manuals.plus/wp-content/plugins/pdfjs-viewer-shortcode/pdfjs/web/viewer.php?file=https://manuals.plus/m/363980d043020ade84b087665ef538096a986510020b8ead27113ee0ba88890b_optim.pdf&attachment_id=&dButton=true&pButton=true&oButton=false&sButton=true#zoom=auto&pagemode=none&_wpnonce=3e1d83fd89)  and [Nutri-blend, 400W, 22000 RPM Mixer-Grinder, Blender, and SS Blades](https://www.wonderchef.com/products/wonderchef-nutri-blend-white-with-jar).*
